@@ -1,0 +1,91 @@
+[
+  {
+    "group": "Bojanje kose",
+    "prices": [
+      {"service": "Bojanje izrasta S", "price": "27,00 €"},
+      {"service": "Bojanje izrasta M", "price": "32,00 €"},
+      {"service": "Bojanje izrasta L", "price": "35,00 €"},
+      {"service": "Bojanje dužine S", "price": "37,00 €"},
+      {"service": "Bojanje dužine M", "price": "42,00 €"},
+      {"service": "Bojanje dužine L", "price": "47,00 €"},
+      {"service": "Parcijalno bojanje izrasta", "price": "20,00 €"},
+      {"service": "Dekolorizacija S", "price": "25,00 €"},
+      {"service": "Dekolorizacija M", "price": "30,00 €"},
+      {"service": "Dekolorizacija L", "price": "40,00 €"}
+    ]
+  },
+  {
+    "group": "Ostalo",
+    "prices": [
+      {"service": "Uređivanje obrva", "price": "4,00 €"},
+      {"service": "Bojanje obrva", "price": "5,00 €"},
+      {"service": "Njega kose", "price": "10,00 €"},
+      {"service": "Preljev za muškarce", "price": "20,00 €"},
+      {"service": "Uređivanje brade", "price": "4,00 €"},
+      {"service": "Bojanje vlastitom bojom", "price": "10,00 €"},
+      {"service": "Brijanje mašinicom (ista dužina)", "price": "7,00 €"},
+      {"service": "Maska", "price": "5,00 €"},
+      {"service": "Ampula", "price": "5,00 €"},
+      {"service": "Brazilsko ravnanje 10ml", "price": "15,00 €"},
+      {"service": "Cocochoco maska", "price": "7,00 €"},
+      {"service": "Trajno kovrčanje kose S", "price": "30,00 €"},
+      {"service": "Trajno kovrčanje kose M", "price": "40,00 €"},
+      {"service": "Trajno kovrčanje kose L", "price": "50,00 €"}
+    ]
+  },
+  {
+    "group": "Pramenovi",
+    "prices": [
+      {"service": "Pramenovi cijela glava S", "price": "39,00 €"},
+      {"service": "Pramenovi cijela glava M", "price": "47,00 €"},
+      {"service": "Pramenovi cijela glava L", "price": "55,00 €"},
+      {"service": "Pramenovi pola glave S", "price": "23,00 €"},
+      {"service": "Pramenovi pola glave M", "price": "30,00 €"},
+      {"service": "Pramenovi pola glave L", "price": "36,00 €"},
+      {"service": "Pramenovi parcijalno S", "price": "15,00 €"},
+      {"service": "Pramenovi parcijalno M", "price": "18,00 €"},
+      {"service": "Pramenovi parcijalno L", "price": "21,00 €"},
+      {"service": "Balayage", "price": "80,00 €"},
+      {"service": "Babylights M", "price": "70,00 €"},
+      {"service": "Babylights L", "price": "80,00 €"},
+      {"service": "Babylights extra", "price": "85,00 €"},
+      {"service": "Toniranje pramenova S", "price": "10,00 €"},
+      {"service": "Toniranje pramenova M", "price": "20,00 €"},
+      {"service": "Toniranje pramenova L", "price": "30,00 €"}
+    ]
+  },
+  {
+    "group": "Frizure",
+    "prices": [
+      {"service": "Valovi ili kovrče S", "price": "14,00 €"},
+      {"service": "Valovi ili kovrče M", "price": "18,00 €"},
+      {"service": "Valovi ili kovrče L", "price": "22,00 €"},
+      {"service": "Pletenice 1 kom", "price": "4,00 €"},
+      {"service": "Svečana frizura", "price": "50,00 €"},
+      {"service": "Afro kovrče S", "price": "21,00 €"},
+      {"service": "Afro kovrče M", "price": "24,00 €"},
+      {"service": "Afro kovrče L", "price": "27,00 €"},
+      {"service": "Afro kovrče XL", "price": "31,00 €"},
+      {"service": "Peglanje kose S", "price": "5,00 €"},
+      {"service": "Peglanje kose M", "price": "7,00 €"},
+      {"service": "Peglanje kose L", "price": "9,00 €"},
+      {"service": "Pranje kratka kosa", "price": "2,00 €"},
+      {"service": "Pranje srednja kosa", "price": "3,00 €"},
+      {"service": "Pranje duga kosa", "price": "4,00 €"},
+      {"service": "Muško šišanje", "price": "10,00 €"},
+      {"service": "Muško šišanje i pranje", "price": "15,00 €"},
+      {"service": "Šišanje S", "price": "14,00 €"},
+      {"service": "Šišanje M", "price": "17,00 €"},
+      {"service": "Šišanje L", "price": "20,00 €"},
+      {"service": "Šišanje šiški", "price": "5,00 €"},
+      {"service": "Fen frizura S", "price": "10,00 €"},
+      {"service": "Fen frizura M", "price": "12,00 €"},
+      {"service": "Fen frizura L", "price": "14,00 €"},
+      {"service": "Fen frizura XL", "price": "17,00 €"},
+      {"service": "Fen frizura difuzor", "price": "9,00 €"},
+      {"service": "Feniranje ekstenzija", "price": "20,00 €"},
+      {"service": "Sušenje kose", "price": "3,00 €"}
+    ]
+  }
+  
+]

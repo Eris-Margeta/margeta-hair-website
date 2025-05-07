@@ -1,0 +1,37 @@
+---
+import prices from "../prices.json";
+---
+
+<section class="p-4">
+	<div class="columns-1 md:columns-2 lg:columns-3 xl:columns-3 gap-4">
+		{
+			prices.map((group) => (
+				<div class="bg-gray-100 rounded-3xl mb-4 p-8  ring-black border border-black/75  break-inside-avoid-column">
+					<h2 class="text-3xl font-medium lg:text-4xl tracking-tight  text-black mb-4">
+						{group.group}
+					</h2>
+					<ul class="text-sm text-black font-base font-light lg:text-xl">
+						{group.prices.map((item) => (
+							<li class="flex justify-between items-center">
+								<span>{item.service}</span>
+								<span class="flex-grow border-b border-bottom border-gray-500 mx-4 pt-4" />
+								<span>{item.price}</span>
+							</li>
+						))}
+					</ul>
+				</div>
+			))
+		}
+	</div>
+  <!-- TODO: dodati novu adresu -->
+	<div
+		class="lg:max-w-[25vw] lg:w-[25rem] text-center prose lg:absolute lg:ml-[33vw] lg:mt-[-300px]"
+	>
+		Obveznik nije u sustavu PDV-a,<br />PDV nije obračunat temeljem čl. 90 st.1
+		i st.2 Zakona o PDV-u<br />Margeta j.d.o.o. Andree Benussia 1, Rijeka<br />
+		OIB: 38770955625<br />
+		margeta hair studio - Rijeka<br />
+		Načini plaćanja: novčanice, kovanice, kartica, transakcijski račun<br />
+		Cjenik vrijedi od 1.7.2024.
+	</div>
+</section>
